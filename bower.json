@@ -1,0 +1,19 @@
+{
+  "name": "m",
+  "version": "0.0.1",
+  "authors": [
+    "hbc <bcxxxxxx@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "http://shire-digest.youknowmymind.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
