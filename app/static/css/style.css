@@ -74,6 +74,7 @@
 
   color: #000;
   border-top: 1px solid #999;
+  text-decoration: none;
 }
 
 .m-post-card:hover,
@@ -96,7 +97,7 @@
   line-height: normal;
 }
 
-.m-title {
+h1.m-title {
   margin-top: .25rem;
   margin-bottom: 1rem;
 
